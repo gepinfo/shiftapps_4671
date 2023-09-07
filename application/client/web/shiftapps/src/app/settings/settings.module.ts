@@ -16,8 +16,8 @@ import { NzButtonModule } from 'ng-zorro-antd/button';
 import { NzModalModule } from 'ng-zorro-antd/modal';
 import { TicketsComponent } from './tickets/tickets.component';
 import { TypesComponent } from './types/types.component';
-import { ProductsComponent } from '../products/products.component';
 import { ModulesComponent } from '../modules/modules.component';
+import { ProductsComponent } from '../products/products.component';
 import { NzSelectModule } from 'ng-zorro-antd/select';
 import { NzFormModule } from 'ng-zorro-antd/form';
 @NgModule({
@@ -27,8 +27,8 @@ import { NzFormModule } from 'ng-zorro-antd/form';
     UsersListComponent,
     TicketsComponent,
     TypesComponent,
-    ProductsComponent,
     ModulesComponent,
+    ProductsComponent,
 
   ],
   imports: [
